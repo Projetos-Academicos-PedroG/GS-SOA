@@ -1,9 +1,11 @@
 # 🚀 Projeto AstroHabit
 
 ## 📝 Motivação do Projeto
-O **AstroHabit** nasceu da análise dos rigorosos protocolos de saúde e performance utilizados por astronautas na Estação Espacial Internacional (ISS). No espaço, fatores como a alta carga cognitiva, o isolamento e a desregulação do ciclo circadiano (devido ao nascer do sol a cada 90 minutos) são desafios constantes que impactam a missão.
+O AstroHabit nasceu da análise dos rigorosos protocolos de saúde e performance utilizados por astronautas na Estação Espacial Internacional (ISS). No espaço, fatores como a alta carga cognitiva, o isolamento e a desregulação do ciclo circadiano são desafios constantes.
 
-Nosso propósito é trazer essa tecnologia de "estação espacial" para o dia a dia na Terra. O AstroHabit atua como um assistente pessoal, aplicando protocolos espaciais para melhorar os hábitos, regular o sono e aumentar o foco dos usuários através de ferramentas práticas.
+Este sistema foi idealizado para ser uma representação de um produto real. A proposta atual é consolidar os protocolos de foco (Modo Órbita) e regulação de sono (Ciclo Circadiano) como pilares de uma solução mais ampla.
+
+Visão de Futuro: O AstroHabit está estruturado para evoluir e integrar, em versões futuras, uma Inteligência Artificial de Suporte. Esta IA atuará como um copiloto do usuário, analisando padrões de produtividade e fadiga para oferecer recomendações personalizadas em tempo real, ajustando a rotina de forma dinâmica e proativa, transformando dados brutos em hábitos saudáveis de alta performance.
 
 ## 🧠 Funcionalidades Principais
 * **Modo Órbita (Foco):** Protocolo de retenção de notificações para evitar interrupções durante tarefas críticas, garantindo foco total.
